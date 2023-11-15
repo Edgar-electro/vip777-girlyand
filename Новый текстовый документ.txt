@@ -1,6 +1,9 @@
 GyverPanelWiFi_v1.13.mklittlefs address : 0x200000
 GyverPanelWiFi_v1.13.ino        address : 0x00000000
 
+board nodemcu v1     2.74 core
+
+
 
 https://dl.espressif.com/dl/package_esp32_index.json
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
